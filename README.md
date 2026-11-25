@@ -1,16 +1,22 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Saifullah-Naeem/Saifullah-Naeem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="terminal.svg" alt="Saifullah-Naeem@github terminal" width="100%"/>
 
-Here are some ideas to get you started:
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="www.linkedin.com/in/saifullah-naeem-60a93643b"><img src="https://img.shields.io/badge/LINKEDIN-0d1117?style=for-the-badge&logo=linkedin&logoColor=e3b341" alt="LINKEDIN"/></a>
+<a href="mailto:saifullahnaeem783783@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0d1117?style=for-the-badge&logo=gmail&logoColor=e3b341" alt="EMAIL"/></a>
+
+</div>
+
+### `$ cat ~/skills`
+
+<img src="skills.svg" alt="$ cat ~/skills" width="100%"/>
+
+### `$ ./stats`
+
+<img src="stats.svg" alt="$ ./stats" width="100%"/>
+
+<br/>
+
+<img src="build.svg" alt="Let's build together" width="100%"/>
